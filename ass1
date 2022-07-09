@@ -1,0 +1,6 @@
+s='a2fd2g3'
+o=''
+for i in s:
+    if i.isdigit():
+        o=o+i 
+print(o)
